@@ -16,10 +16,7 @@ Investment Bankers . CA's . Hedge Fund / Portfolio Managers . Forex traders . Co
 
 ## Selection of Industry
 I have choosen RBL as my industry
-<p align="center">
-<img src = "![rbl-bank](https://user-images.githubusercontent.com/59396140/108234029-63d04e00-716a-11eb-966e-1acbf3069caa.png)
-" width="10%" align="center">
-</p>
+![rbl-bank](https://user-images.githubusercontent.com/59396140/108234029-63d04e00-716a-11eb-966e-1acbf3069caa.png)
 In the modules, I have done various tasks to analyze and make predictions on allotted selected company stock. I learned about the underlying markets and completed the internship.
 
 ## Datasets used for module 2 onwards
